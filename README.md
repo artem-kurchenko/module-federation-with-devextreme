@@ -57,3 +57,4 @@ I also had to skip the `devextreme-angular/server` module in `federation.config.
      'devextreme-angular/server',
 ```
 
+Otherwise, you'll run into issue described at https://github.com/angular-architects/module-federation-plugin/issues/523
